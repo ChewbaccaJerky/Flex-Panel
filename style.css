@@ -37,6 +37,10 @@ body {
   background-position:center;
   width: 20%;
   transition: all 0.7s;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
 
